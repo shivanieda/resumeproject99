@@ -1,0 +1,57 @@
+{
+	"details":{
+		"image":"image.png",
+		"name":"shivani",
+		"phonenumber":"+91-70771067547",
+		"email":"shivanieda99@gmail.com",
+		"address":"vignan college."
+
+	},
+	"career":{
+		"info":"to pursue a challenging carrer and..........."
+	},
+	"education":[
+	{
+           "qualification":"b.tech",
+           "institute":"vignan college",
+           "year" :"2016-2020",
+           "percentage":"98%"
+	},
+	{
+
+           "qualification":"intermediate",
+           "institute":"sri chaitanya college",
+           "year" :"2014-2016",
+           "percentage":"98%"
+	},
+	{
+
+           "qualification":"ssc",
+           "institute":"bhasyam school",
+           "year" :"2014",
+           "percentage":"93%"
+	}
+],
+	"skills":[{
+        "title":"programming languages",
+		"info":["c","c++","java"]
+       },
+       {
+       	"title":"database",
+		"info":["orcale","mysql","sql"]
+	   },
+	  {
+		"title":"operating system",
+		"info":["unix","linux"]
+	  }
+	],
+	  "achivements":[
+        {
+	  	"title":"first in chess"
+	    },
+	    {
+	    "title":"second in ppt"
+	    }
+	]
+    }
+
