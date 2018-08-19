@@ -145,4 +145,6 @@
     	right.appendChild(l);
     }
  }
-
+function openpage(){
+ 	window.open("resume.html","_self",true)
+}
